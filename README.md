@@ -1,6 +1,5 @@
-# Project MyReactApp
-โปรเจกต์แอพที่เคยทำตอนเรียนมหาวิทยาลัย  
-เป็นแอพ React สำหรับฝึกพื้นฐานการพัฒนาเว็บแอพพลิเคชัน
+# TEST
+ฝึก React สำหรับฝึกพื้นฐานการพัฒนาเว็บแอพพลิเคชัน
 
 ## Tools
 ![React](https://img.shields.io/badge/React-18.0-blue)
