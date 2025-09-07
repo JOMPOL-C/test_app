@@ -1,5 +1,5 @@
 # TEST
-ฝึก React สำหรับฝึกพื้นฐานการพัฒนาเว็บแอพพลิเคชัน
+ฝึก React สำหรับฝึกพื้นฐานการพัฒนาแอพพลิเคชัน
 
 ## Tools
 ![React](https://img.shields.io/badge/React-18.0-blue)
